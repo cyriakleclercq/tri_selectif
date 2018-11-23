@@ -1,0 +1,88 @@
+#titre {
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+#titre2 {
+    position: absolute;
+    top: 150px;
+    right: 250px;
+}
+
+#cadre {
+    display: flex;
+    justify-content: space-between ;
+}
+
+.cadre {
+    border: solid;
+    padding-bottom: 38%;
+    padding-right: 40%;
+    border-radius: 30px;
+}
+
+#pbver {
+    position: absolute;
+    height: 100px;
+    width: 100px;
+}
+
+#pbpla {
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    left: 10%;
+}
+#pbpap {
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    left: 20%;
+}
+#pborg {
+    position: absolute;
+    height: 100px;
+    left: 30%;
+}
+
+#rep {
+    position: absolute;
+    top: 500px;
+    left: 100px;
+}
+
+#bonne_reponse {
+    position: absolute;
+    top: 300px;
+    right: 400px;
+}
+
+#mauvaise_reponse {
+    position: absolute;
+    top: 300px;
+    right: 50px;
+
+}
+
+#mauvaise_rep {
+    position: absolute;
+    top: 50px;
+    right: 100px;
+}
+
+#apprentissage {
+    position: absolute;
+    top: 600px;
+    right: 200px;
+
+}
+.a {
+    font-weight: bold;
+    font-size: 22px;
+    color: #D53EFF;
+}
+
+#apprent {
+    font-size: 40px !important;
+}
+
